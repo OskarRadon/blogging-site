@@ -18,4 +18,6 @@ a, .menu {
 .entries {
   font-size: 15px;
   color: blue;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
