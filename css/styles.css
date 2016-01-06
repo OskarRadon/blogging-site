@@ -1,0 +1,13 @@
+.menu {
+  color: red;
+  text-decoration: none;
+  margin: 30px;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: orange;
+}
